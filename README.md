@@ -1,15 +1,34 @@
-# Data-Analytics
-**Project objective:** 
+# Sales Analytics
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] _[Months]
+**Project Short Info:**
 
-   **2.** Create Profit and Loss (P&L) reports
+Created 2 reports for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+**********************
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+**Project Description:**
+
+In this project, I created a sales report using excel pivot tables which will enable businesses to determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries. The reports generated will provide actionable insights and recommendations for businesses to optimize their sales strategies, enhance customer satisfaction, and maximize revenue generation.
+
+**I have learned the following:**
+1. Pivot table
+2. Power Query
+3. DAX (Basics)
+4. Conditional Formatting
+5. Report Beautification
+6. Sales Domain Metrics
+
+Overall, this project aims to empower businesses with the necessary tools and insights to monitor, evaluate, and enhance their sales activities. By leveraging sales data analysis, businesses can unlock new opportunities, drive growth, and stay competitive in the dynamic market landscape.
+
+************************
+**Screenshot Description --> 1**
+Customer Performance Report: Provides net sales performance of each customer across years
+**Screenshot Description --> 2**
+Market performance vs Target report across years: Enables stakeholders to assess the country's performance and compare it to set targets.
+
+
+
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
